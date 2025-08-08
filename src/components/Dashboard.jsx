@@ -69,7 +69,7 @@ const RakshaBandhanWish = () => {
             Happy Raksha Bandhan
           </h1>
           <div className="text-2xl md:text-3xl text-red-700 font-semibold mb-6">
-            Dear Sister 💕
+            Dear Siddhi 💕
           </div>
         </div>
 
